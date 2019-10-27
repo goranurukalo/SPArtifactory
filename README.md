@@ -24,11 +24,11 @@ UI: this is going to be part of repository, way to configur and monitor our pack
 # Flow
 > example of create-react-app deployment
 
-1. # ssh to server A
-1. npm run build
-1. *agent* push # configuration in separate file
-1. # ssh to server B
-1. *agent* update *app-name* # agent needs configuration to repository server
+1. `# ssh to server A`
+1. `npm run build`
+1. `*agent* push # configuration in separate file`
+1. `# ssh to server B`
+1. `*agent* update *app-name* # agent needs configuration to repository server`
 
 <br/>
 
